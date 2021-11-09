@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Blink-CMS/blink.git"
+    "url": "git+https://github.com/Blinkx-IO/blink.git"
   },
   "keywords": [
     "headless",
@@ -19,9 +19,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Blink-CMS/blink/issues"
+    "url": "https://github.com/Blinkx-IO/blink/issues"
   },
-  "homepage": "https://github.com/Blink-CMS/blink#readme",
+  "homepage": "https://github.com/Blinkx-IO/blink#readme",
   "devDependencies": {
     "esbuild": "^0.13.12"
   }
