@@ -1,0 +1,26 @@
+{
+    "name": "blinkx.io-react",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Blink-CMS/blink.git"
+    },
+    "keywords": [
+      "headless",
+      "cms",
+      "commerce",
+      "serverless"
+    ],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Blink-CMS/blink/issues"
+    },
+    "homepage": "https://github.com/Blink-CMS/blink#readme"
+  }
+  

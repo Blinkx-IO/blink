@@ -1,0 +1,28 @@
+{
+  "name": "blinkx.io",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "build": "esbuild index.ts --bundle --outfile=out.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blink-CMS/blink.git"
+  },
+  "keywords": [
+    "headless",
+    "cms",
+    "commerce",
+    "serverless"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blink-CMS/blink/issues"
+  },
+  "homepage": "https://github.com/Blink-CMS/blink#readme",
+  "devDependencies": {
+    "esbuild": "^0.13.12"
+  }
+}
