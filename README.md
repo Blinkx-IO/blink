@@ -71,7 +71,7 @@ async function getBlinkPages() {
 </tr>
 </table>
 <br />
-<div align="center">
+
 ## Table of contents
 
 - [How does it work?](#how-does-it-work)
@@ -83,7 +83,7 @@ async function getBlinkPages() {
 - [Code of Conduct](#code-of-conduct)
 - [Want to contribute?](#want-to-contribute)
 - [License](#license)
-</div>
+
 ## Key Features
 
 ![blink-sdk-components](https://user-images.githubusercontent.com/4421818/141836560-655a5f40-a1d3-498e-adec-1a2b2ad7a446.png)
