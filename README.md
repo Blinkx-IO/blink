@@ -83,6 +83,7 @@ async function getBlinkPages() {
 - Integrate the [Blink API](https://blinkx.io/api-browser) or [SDK](https://www.npmjs.com/package/blinkx.io) to your site or app
 - Create a free account on [blinkx.io](https://blinkx.io/signup) and start visually designing your page or app.
 
+Install the SDK with npm:
 ```bash
 npm i blinkx.io
 ```
