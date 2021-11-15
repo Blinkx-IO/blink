@@ -85,8 +85,6 @@ async function getBlinkPages() {
 
 ### [Blink X Core](https://blinkx.io)
 
-[Blink X](https://blinkx.io) is an headless CMS that you can customize with JavaScript and React.
-
 - Visual experience editor.
 - Responsive, works on small screens.
 - [Headless Commerce](https://blinkx.io/coming-soon).
@@ -97,7 +95,8 @@ async function getBlinkPages() {
 ### [Developer Experience](https://blinkx.io)
 
 - [Custom Plug-ins](https://blinkx.io/coming-soon)
-- Use JavaScript/Typescript to add [custom components](https://blinkx.io/coming-soon),
+- Use JavaScript/Typescript to add [custom components](https://blinkx.io/coming-soon)
+- [Customize the editor](https://blinkx.io/coming-soon)
 
 
 ## How does it work?
