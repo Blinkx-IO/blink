@@ -13,7 +13,7 @@
 
 <p align="center" valign="middle">
   &nbsp; <a title="REST API" target="_blank" href="">
-    ![blink-rest-api](https://user-images.githubusercontent.com/4421818/141838376-8c3dcbe4-2b93-4b22-8f7a-1db5ebb60cdd.png)
+    <img src="https://user-images.githubusercontent.com/4421818/141838376-8c3dcbe4-2b93-4b22-8f7a-1db5ebb60cdd.png" />
   </a>&nbsp;
   &nbsp; <a title="GraphQL"  target="_blank" href="">
     ![blink-rest-api](https://user-images.githubusercontent.com/4421818/141838376-8c3dcbe4-2b93-4b22-8f7a-1db5ebb60cdd.png)
