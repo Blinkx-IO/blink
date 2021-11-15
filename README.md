@@ -19,8 +19,8 @@
 
 ## Join the community!
 
-Questions? Requests? Feedback? Chat with us in our [official forum](https://discord.gg/6rTSFY95)!
+Questions? Chat with us in our [official forum](https://discord.gg/6rTSFY95)!
 
 ## Troubleshooting and feedback
 
-Problems? Requests? Open an [issue](https://github.com/Blinkx-IO/blink/issues). We always want to hear feedback and interesting new use cases and are happy to help.
+Open an [issue](https://github.com/Blinkx-IO/blink/issues).
