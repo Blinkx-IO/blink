@@ -79,8 +79,7 @@ async function getBlinkPages() {
   - [Blink Features](#)
   - [Developer experience](#developer-experience)
   - [Content](#-content)
-- [Stay up to date](#stay-up-to-date)
-- [Code of Conduct](#code-of-conduct)
+- [Join the community](#join-the-community)
 - [Want to contribute?](#want-to-contribute)
 - [License](#license)
 
