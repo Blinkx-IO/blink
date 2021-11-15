@@ -74,7 +74,6 @@ async function getBlinkPages() {
 - [Key Features](#key-features)
   - [Blink X Core](#blink-x-core)
   - [Developer experience](#developer-experience)
-  - [Content](#-content)
 - [Join the community](#join-the-community)
 - [Want to contribute?](#want-to-contribute)
 - [License](#license)
