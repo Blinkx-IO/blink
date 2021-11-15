@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-  Design experiences visually, deliver content in a blink.
+  Design experiences visually, deliver content faster.
 </h3>
 <p align="center">
   Seamlessly use Blink with the stack of your choice.
@@ -38,12 +38,13 @@
   <img width="40" src="https://user-images.githubusercontent.com/4421818/141839532-4d5d197b-b839-4810-9c3b-b267d4225527.png" />
   </a>&nbsp;
   &nbsp; <a title="Svelte"  target="_blank" href="">
-  <img width="40" src="https://user-images.githubusercontent.com/4421818/141839341-9c711a2a-bf7a-465a-ab0b-d0c6cfff5128.png" />
+  <img width="40" src="https://user-images.githubusercontent.com/4421818/141840038-cb803ef8-1363-42ba-a14d-77baba1091a4.png" />
   </a>&nbsp;
   &nbsp; <a title="Webcomponents"  target="_blank" href="">
     <img width="40" src="https://user-images.githubusercontent.com/4421818/141839603-271c5e79-2bbb-40eb-a9d9-5c282e781c41.png" />
   </a>&nbsp;
 </p>
+
 
 <br />
 
