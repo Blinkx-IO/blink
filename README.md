@@ -68,6 +68,7 @@ async function getBlinkPages() {
 &nbsp;&nbsp;&nbsp;&nbsp;}
 &nbsp;&nbsp;}
 }
+</pre>
 <br />
 
 ## Table of contents
