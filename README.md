@@ -96,7 +96,7 @@ async function getBlinkPages() {
 
 - [Custom Plug-ins](https://blinkx.io/coming-soon)
 - [Custom components](https://blinkx.io/coming-soon)
-- [Customize the editor](https://blinkx.io/coming-soon)
+- [Use Javascript to enhance the editor](https://blinkx.io/coming-soon)
 
 
 ## How does it work?
