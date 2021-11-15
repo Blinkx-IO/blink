@@ -104,3 +104,7 @@ Found a bug, or want to contribute code? Pull requests and issues are most welco
 ## Troubleshooting and feedback
 
 Open an [issue](https://github.com/Blinkx-IO/blink/issues).
+
+## License
+
+Blink X is available under the [_MIT License_](https://github.com/blinkx-io/blink/blob/current/LICENSE)
