@@ -11,7 +11,6 @@
 </p>
 
 
-
 <p align="center" valign="middle">
   &nbsp; <a title="REST API" target="_blank" href="">
     <img width="40" src="https://user-images.githubusercontent.com/4421818/141838376-8c3dcbe4-2b93-4b22-8f7a-1db5ebb60cdd.png" />
@@ -38,7 +37,7 @@
   <img width="40" src="https://user-images.githubusercontent.com/4421818/141839532-4d5d197b-b839-4810-9c3b-b267d4225527.png" />
   </a>&nbsp;
   &nbsp; <a title="Svelte"  target="_blank" href="">
-  <img width="60" src="https://user-images.githubusercontent.com/4421818/141840038-cb803ef8-1363-42ba-a14d-77baba1091a4.png" />
+  <img width="60" src="https://user-images.githubusercontent.com/4421818/141840831-79882ca7-6046-4b9a-8cbd-886aef764c98.png" />
   </a>&nbsp;
   &nbsp; <a title="Webcomponents"  target="_blank" href="">
     <img width="40" src="https://user-images.githubusercontent.com/4421818/141839603-271c5e79-2bbb-40eb-a9d9-5c282e781c41.png" />
