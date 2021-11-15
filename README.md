@@ -83,6 +83,17 @@ async function getBlinkPages() {
 
 ![blink-sdk-components](https://user-images.githubusercontent.com/4421818/141836560-655a5f40-a1d3-498e-adec-1a2b2ad7a446.png)
 
+### [Blink Core](https://blinkx.io)
+
+[Blink X](https://blinkx.io) is an headless CMS that you can customize with JavaScript and React.
+
+- Efficient editing, instant UI for complex fields.
+- Responsive, works on small screens.
+- [Custom Plug-ins](https://blinkx.io/coming-soon)
+- [Advanced visual x editor](https://blinkx.io/coming-soon).
+- Use JavaScript to add [custom components](https://blinkx.io/coming-soon),
+
+
 ## How does it work?
 
 - Integrate the [Blink API](https://blinkx.io/api-browser) or [SDK](https://www.npmjs.com/package/blinkx.io) to your site or app
