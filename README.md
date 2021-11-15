@@ -54,7 +54,7 @@
 <pre lang="tsx">
 import { blink } from 'blinkx.io'
 &nbsp; 
-blink.init('YOUR_KEY')
+blink.init('YOUR_KEY');
 &nbsp; 
 async function getBlinkPages() {
 &nbsp;&nbsp;const blinkContent = await blink.getContentItem('PAGE_URL','html');
