@@ -45,13 +45,12 @@
 </p>
 
 <table style="width:100%;">
-  <tr>
-
-    <td>Dislpay your content</td>
-  </tr width="100%">
-  <tr>
+<tr>
+<td>Dislpay your content</td>
+</tr>
+<tr>
     
-    <td width="100%">
+<td width="100%">
 <pre lang="tsx">
 import { blink } from 'blinkx.io'
 &nbsp; 
@@ -69,6 +68,8 @@ async function getBlinkPages() {
 &nbsp;&nbsp;}
 }
 </pre>
+</tr>
+</table>
 <br />
 
 ## Table of contents
