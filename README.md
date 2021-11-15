@@ -14,35 +14,36 @@
 
 <p align="center" valign="middle">
   &nbsp; <a title="REST API" target="_blank" href="">
-    <img width="38" src="https://user-images.githubusercontent.com/4421818/141838376-8c3dcbe4-2b93-4b22-8f7a-1db5ebb60cdd.png" />
+    <img width="40" src="https://user-images.githubusercontent.com/4421818/141838376-8c3dcbe4-2b93-4b22-8f7a-1db5ebb60cdd.png" />
   </a>&nbsp;
   &nbsp; <a title="GraphQL"  target="_blank" href="">
-    <img width="38" src="https://user-images.githubusercontent.com/4421818/141838819-3226672f-f6b2-4a7f-8fb1-6b4c7f366c4b.png" />
+    <img width="40" src="https://user-images.githubusercontent.com/4421818/141838819-3226672f-f6b2-4a7f-8fb1-6b4c7f366c4b.png" />
   </a>&nbsp;
   &nbsp; <a title="Shopify"  target="_blank" href="">
-   ![blink-rest-api](https://user-images.githubusercontent.com/4421818/141838376-8c3dcbe4-2b93-4b22-8f7a-1db5ebb60cdd.png) 
+   <img width="40" src="https://user-images.githubusercontent.com/4421818/141838939-4ca882e7-dba5-494a-9d98-f13f483c1618.png" />
   </a>&nbsp;
- 
   &nbsp; <a title="React"  target="_blank" href="">
-  ![blink-rest-api](https://user-images.githubusercontent.com/4421818/141838376-8c3dcbe4-2b93-4b22-8f7a-1db5ebb60cdd.png)
+  <img width="40" src="https://user-images.githubusercontent.com/4421818/141839049-83662e52-16c0-421b-910d-207a05c59381.png)" />
   </a>&nbsp;
   &nbsp; <a title="Next.js"  target="_blank" href="">
-    ![blink-rest-api](https://user-images.githubusercontent.com/4421818/141838376-8c3dcbe4-2b93-4b22-8f7a-1db5ebb60cdd.png)
+    
+  <img width="40" src="https://user-images.githubusercontent.com/4421818/141839129-f3100226-9685-4e7a-9503-3980c8ffd0d6.png" />
+
   </a>&nbsp;
   &nbsp; <a title="Gatsby"  target="_blank" href="">
-   ![blink-rest-api](https://user-images.githubusercontent.com/4421818/141838376-8c3dcbe4-2b93-4b22-8f7a-1db5ebb60cdd.png)
+  
   </a>&nbsp;
   &nbsp; <a title="Vue"  target="_blank" href="">
-   ![blink-rest-api](https://user-images.githubusercontent.com/4421818/141838376-8c3dcbe4-2b93-4b22-8f7a-1db5ebb60cdd.png)
+  
   </a>&nbsp;
   &nbsp; <a title="Nuxt"  target="_blank" href="">
-    ![blink-rest-api](https://user-images.githubusercontent.com/4421818/141838376-8c3dcbe4-2b93-4b22-8f7a-1db5ebb60cdd.png)
+   
   </a>&nbsp;
   &nbsp; <a title="Angular"  target="_blank" href="">
-    ![blink-rest-api](https://user-images.githubusercontent.com/4421818/141838376-8c3dcbe4-2b93-4b22-8f7a-1db5ebb60cdd.png)
+  
   </a>&nbsp;
   &nbsp; <a title="Webcomponents"  target="_blank" href="">
-    ![blink-rest-api](https://user-images.githubusercontent.com/4421818/141838376-8c3dcbe4-2b93-4b22-8f7a-1db5ebb60cdd.png)
+    
   </a>&nbsp;
 </p>
 
