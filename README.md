@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-  Design your content with our visual experience editor.
+  Design your content with our Visual Experience Editor.
 </h3>
 <p align="center">
   Seamlessly use Blink with the stack of your choice.
