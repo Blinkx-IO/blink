@@ -44,7 +44,7 @@
   </a>&nbsp;
 </p>
 
-<table style="width:100%;">
+<table align="center" style="width:100%;">
 <tr>
 <td>Dislpay your content</td>
 </tr>
