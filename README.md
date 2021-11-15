@@ -6,7 +6,7 @@
 <h3>
   Design experiences visually, deliver content faster.
 </h3>
-<p
+<p>
   Seamlessly use Blink with the framework of your choice.
 </p>
 
