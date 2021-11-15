@@ -7,7 +7,7 @@
   Design experiences visually, deliver content faster.
 </h3>
 <p align="center">
-  Seamlessly use Blink with the stack of your choice.
+  Seamlessly use Blink with the framework of your choice.
 </p>
 
 
