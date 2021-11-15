@@ -4,12 +4,8 @@
 </p>
 
 <h3>
-  Design experiences visually, deliver content faster.
+  Design experiences faster, connect any framework.
 </h3>
-<p>
-  Seamlessly use Blink with the framework of your choice.
-</p>
-
 
 <p valign="middle">
   &nbsp; <a title="REST API" target="_blank" href="">
