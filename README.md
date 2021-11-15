@@ -88,7 +88,7 @@ async function getBlinkPages() {
 - Visual Experience Editor (VX Editor)
 - Responsive Layouts
 - [Headless Commerce](https://blinkx.io/coming-soon)
-- [Contact Relationship Management](https://blinkx.io/coming-soon)
+- [Audience Manager](https://blinkx.io/coming-soon)
 - [App marketplace](https://blinkx.io/coming-soon)
 
 
