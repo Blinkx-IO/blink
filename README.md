@@ -1,17 +1,17 @@
 <br />
-<p align="center">
+<p >
   <img alt="blinkx" src="https://cdn.blinkcms.com/blink/blinkxlogo.png" width="240"/>
 </p>
 
-<h3 align="center">
+<h3>
   Design experiences visually, deliver content faster.
 </h3>
-<p align="center">
+<p
   Seamlessly use Blink with the framework of your choice.
 </p>
 
 
-<p align="center" valign="middle">
+<p valign="middle">
   &nbsp; <a title="REST API" target="_blank" href="">
     <img width="40" src="https://user-images.githubusercontent.com/4421818/141838376-8c3dcbe4-2b93-4b22-8f7a-1db5ebb60cdd.png" />
   </a>&nbsp;
