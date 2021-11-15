@@ -70,7 +70,7 @@ async function getBlinkPages() {
 
 ## Table of contents
 
-- [How does it work?](#how-does-it-work)
+- [How it works](#how-it-works)
 - [Key Features](#key-features)
   - [Blink X Core](#blink-x-core)
   - [Developer experience](#developer-experience)
@@ -78,7 +78,7 @@ async function getBlinkPages() {
 - [Want to contribute?](#want-to-contribute)
 - [License](#license)
 
-## How does it work?
+## How it works
 
 - Integrate the [Blink API](https://blinkx.io/api-browser) or [SDK](https://www.npmjs.com/package/blinkx.io) to your site or app
 - Create a free account on [blinkx.io](https://blinkx.io/signup) and start visually designing your page or app.
