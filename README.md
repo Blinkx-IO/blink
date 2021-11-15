@@ -89,7 +89,7 @@ async function getBlinkPages() {
 - Responsive Layouts
 - [Headless Commerce](https://blinkx.io/coming-soon)
 - [Audience Manager](https://blinkx.io/coming-soon)
-- [App marketplace](https://blinkx.io/coming-soon)
+- [App Marketplace](https://blinkx.io/coming-soon)
 
 
 ### [Developer Experience](https://blinkx.io)
