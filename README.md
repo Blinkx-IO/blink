@@ -23,7 +23,7 @@
    <img width="40" src="https://user-images.githubusercontent.com/4421818/141838939-4ca882e7-dba5-494a-9d98-f13f483c1618.png" />
   </a>&nbsp;
   &nbsp; <a title="React"  target="_blank" href="">
-  <img width="40" src="https://user-images.githubusercontent.com/4421818/141839049-83662e52-16c0-421b-910d-207a05c59381.png)" />
+  <img width="40" src="https://user-images.githubusercontent.com/4421818/141839049-83662e52-16c0-421b-910d-207a05c59381.png" />
   </a>&nbsp;
   &nbsp; <a title="Next.js"  target="_blank" href="">
     
