@@ -78,6 +78,11 @@ async function getBlinkPages() {
 - [Want to contribute?](#want-to-contribute)
 - [License](#license)
 
+## How does it work?
+
+- Integrate the [Blink API](https://blinkx.io/api-browser) or [SDK](https://www.npmjs.com/package/blinkx.io) to your site or app
+- Create a free account on [blinkx.io](https://blinkx.io/signup) and start visually designing your page or app.
+
 ## Key Features
 
 ![blink-sdk-components](https://user-images.githubusercontent.com/4421818/141836560-655a5f40-a1d3-498e-adec-1a2b2ad7a446.png)
@@ -96,12 +101,6 @@ async function getBlinkPages() {
 - [Custom Plug-ins](https://blinkx.io/coming-soon)
 - [Custom Components](https://blinkx.io/coming-soon)
 - [Use Javascript to enhance the VX Editor](https://blinkx.io/coming-soon)
-
-
-## How does it work?
-
-- Integrate the [Blink API](https://blinkx.io/api-browser) or [SDK](https://www.npmjs.com/package/blinkx.io) to your site or app
-- Create a free account on [blinkx.io](https://blinkx.io/signup) and start visually designing your page or app.
 
 ## Join the community!
 
