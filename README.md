@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <img alt="BUILDER" src="https://cdn.blinkcms.com/blink/blinkxlogo.png" width="240"/>
+  <img alt="blinkx" src="https://cdn.blinkcms.com/blink/blinkxlogo.png" width="240"/>
 </p>
 
 <h3 align="center">
