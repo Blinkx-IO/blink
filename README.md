@@ -95,7 +95,7 @@ async function getBlinkPages() {
 ### [Developer Experience](https://blinkx.io)
 
 - [Custom Plug-ins](https://blinkx.io/coming-soon)
-- Use JavaScript/Typescript to add [custom components](https://blinkx.io/coming-soon)
+- [Custom components](https://blinkx.io/coming-soon)
 - [Customize the editor](https://blinkx.io/coming-soon)
 
 
