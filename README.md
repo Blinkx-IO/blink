@@ -26,21 +26,15 @@
   <img width="40" src="https://user-images.githubusercontent.com/4421818/141839049-83662e52-16c0-421b-910d-207a05c59381.png" />
   </a>&nbsp;
   &nbsp; <a title="Next.js"  target="_blank" href="">
-    
   <img width="40" src="https://user-images.githubusercontent.com/4421818/141839129-f3100226-9685-4e7a-9503-3980c8ffd0d6.png" />
-
-  </a>&nbsp;![blink-svelte]()
-
+  </a>&nbsp;
   &nbsp; <a title="Gatsby"  target="_blank" href="">
   <img width="40" src="https://user-images.githubusercontent.com/4421818/141839408-2e25a1cb-0f5b-47ff-956a-b4898f0e0c16.png" />
   </a>&nbsp;
-
   &nbsp; <a title="Vue"  target="_blank" href="">
-  <img width="40" src="https://user-images.githubusercontent.com/4421818/141839472-cb06ffc9-6754-49ab-9171-29e7b828048c.png)" />
+  <img width="40" src="https://user-images.githubusercontent.com/4421818/141839472-cb06ffc9-6754-49ab-9171-29e7b828048c.png" />
   </a>&nbsp;
-
   &nbsp; <a title="Nuxt"  target="_blank" href="">
-   
   <img width="40" src="https://user-images.githubusercontent.com/4421818/141839532-4d5d197b-b839-4810-9c3b-b267d4225527.png" />
   </a>&nbsp;
   &nbsp; <a title="Svelte"  target="_blank" href="">
