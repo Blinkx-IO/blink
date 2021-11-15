@@ -44,7 +44,30 @@
   </a>&nbsp;
 </p>
 
+<table style="width:100%;">
+  <tr>
 
+    <td>Dislpay your content</td>
+  </tr width="100%">
+  <tr>
+    
+    <td width="100%">
+<pre lang="tsx">
+import { blink } from 'blinkx.io'
+&nbsp; 
+blink.init('YOUR_KEY')
+&nbsp; 
+async function getBlinkPages() {
+&nbsp;&nbsp; const blinkContent = await blink.getContentItem('PAGE_URL','html');
+&nbsp;
+&nbsp;&nbsp;return{
+&nbsp;&nbsp;&nbsp;content:{
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;html: blinkContent.body.html,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;css: blinkContent.body.css,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;seo: blinkContent.seo_fields
+&nbsp;&nbsp;&nbsp;&nbsp;}
+&nbsp;&nbsp;}
+}
 <br />
 
 ## Table of contents
