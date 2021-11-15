@@ -85,11 +85,11 @@ async function getBlinkPages() {
 
 ### [Blink X Core](https://blinkx.io)
 
-- Visual experience editor.
-- Responsive, works on small screens.
+- Visual Experience Editor.
+- Responsive Layouts.
 - [Headless Commerce](https://blinkx.io/coming-soon).
 - [Contact Relationship Management](https://blinkx.io/coming-soon).
-- App marketplace(https://blinkx.io/coming-soon)
+- [App marketplace](https://blinkx.io/coming-soon)
 
 
 ### [Developer Experience](https://blinkx.io)
