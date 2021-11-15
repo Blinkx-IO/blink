@@ -10,10 +10,6 @@
   Seamlessly use Blink with the stack of your choice.
 </p>
 
-<p align="center">
-  <img src="https://cdn.blinkcms.com/blink/blinkDemowebm.gif" alt="Editor example" />
-</p>
-
 <br />
 
 ## How does it work?
