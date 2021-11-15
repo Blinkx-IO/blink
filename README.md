@@ -24,6 +24,10 @@
 - [Want to contribute?](#want-to-contribute)
 - [License](#license)
 
+## Key Features
+
+![blink-sdk-components](https://user-images.githubusercontent.com/4421818/141836560-655a5f40-a1d3-498e-adec-1a2b2ad7a446.png)
+
 ## How does it work?
 
 - Integrate the [Blink API](https://blinkx.io/api-browser) or [SDK](https://www.npmjs.com/package/blinkx.io) to your site or app
