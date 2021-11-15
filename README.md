@@ -57,13 +57,13 @@ import { blink } from 'blinkx.io'
 blink.init('YOUR_KEY')
 &nbsp; 
 async function getBlinkPages() {
-&nbsp;&nbsp; const blinkContent = await blink.getContentItem('PAGE_URL','html');
+&nbsp;&nbsp;const blinkContent = await blink.getContentItem('PAGE_URL','html');
 &nbsp;
 &nbsp;&nbsp;return{
-&nbsp;&nbsp;&nbsp;content:{
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;html: blinkContent.body.html,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;css: blinkContent.body.css,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;seo: blinkContent.seo_fields
+&nbsp;&nbsp;&nbsp;&nbsp;content:{
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;html: blinkContent.body.html,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;css: blinkContent.body.css,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;seo: blinkContent.seo_fields
 &nbsp;&nbsp;&nbsp;&nbsp;}
 &nbsp;&nbsp;}
 }
