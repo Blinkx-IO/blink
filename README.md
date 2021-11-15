@@ -11,6 +11,40 @@
 </p>
 
 
+<p align="center" valign="middle">
+  &nbsp; <a title="REST API" target="_blank" href="">
+    ![blink-rest-api](https://user-images.githubusercontent.com/4421818/141838376-8c3dcbe4-2b93-4b22-8f7a-1db5ebb60cdd.png)
+  </a>&nbsp;
+  &nbsp; <a title="GraphQL"  target="_blank" href="">
+    ![blink-rest-api](https://user-images.githubusercontent.com/4421818/141838376-8c3dcbe4-2b93-4b22-8f7a-1db5ebb60cdd.png)
+  </a>&nbsp;
+  &nbsp; <a title="Shopify"  target="_blank" href="">
+   ![blink-rest-api](https://user-images.githubusercontent.com/4421818/141838376-8c3dcbe4-2b93-4b22-8f7a-1db5ebb60cdd.png) 
+  </a>&nbsp;
+ 
+  &nbsp; <a title="React"  target="_blank" href="">
+  ![blink-rest-api](https://user-images.githubusercontent.com/4421818/141838376-8c3dcbe4-2b93-4b22-8f7a-1db5ebb60cdd.png)
+  </a>&nbsp;
+  &nbsp; <a title="Next.js"  target="_blank" href="">
+    ![blink-rest-api](https://user-images.githubusercontent.com/4421818/141838376-8c3dcbe4-2b93-4b22-8f7a-1db5ebb60cdd.png)
+  </a>&nbsp;
+  &nbsp; <a title="Gatsby"  target="_blank" href="">
+   ![blink-rest-api](https://user-images.githubusercontent.com/4421818/141838376-8c3dcbe4-2b93-4b22-8f7a-1db5ebb60cdd.png)
+  </a>&nbsp;
+  &nbsp; <a title="Vue"  target="_blank" href="">
+   ![blink-rest-api](https://user-images.githubusercontent.com/4421818/141838376-8c3dcbe4-2b93-4b22-8f7a-1db5ebb60cdd.png)
+  </a>&nbsp;
+  &nbsp; <a title="Nuxt"  target="_blank" href="">
+    ![blink-rest-api](https://user-images.githubusercontent.com/4421818/141838376-8c3dcbe4-2b93-4b22-8f7a-1db5ebb60cdd.png)
+  </a>&nbsp;
+  &nbsp; <a title="Angular"  target="_blank" href="">
+    ![blink-rest-api](https://user-images.githubusercontent.com/4421818/141838376-8c3dcbe4-2b93-4b22-8f7a-1db5ebb60cdd.png)
+  </a>&nbsp;
+  &nbsp; <a title="Webcomponents"  target="_blank" href="">
+    ![blink-rest-api](https://user-images.githubusercontent.com/4421818/141838376-8c3dcbe4-2b93-4b22-8f7a-1db5ebb60cdd.png)
+  </a>&nbsp;
+</p>
+
 <br />
 
 ## Table of contents
