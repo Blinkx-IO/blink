@@ -61,9 +61,9 @@ async function getBlinkPages() {
 &nbsp;
 &nbsp;&nbsp;return{
 &nbsp;&nbsp;&nbsp;&nbsp;content:{
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;html: blinkContent.body.html,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;css: blinkContent.body.css,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;seo: blinkContent.seo_fields
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;html: blinkContent.body.html,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;css: blinkContent.body.css,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;seo: blinkContent.seo_fields
 &nbsp;&nbsp;&nbsp;&nbsp;}
 &nbsp;&nbsp;}
 }
