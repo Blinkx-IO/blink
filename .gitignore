@@ -5,6 +5,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+*local-dev
+
 # Runtime data
 pids
 *.pid
@@ -76,3 +78,8 @@ typings/
 .fusebox/
 
 *package-lock.json
+*yarn.lock
+
+packages/core/dist
+
+*.vscode

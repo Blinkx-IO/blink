@@ -1,6 +1,7 @@
 {
     "compilerOptions": {
-      "target": "es5",
+      "target": "ESNext",
+      "removeComments": true,
       "outDir": "dist",
       "module": "esnext",
       "strict": true,
@@ -13,8 +14,9 @@
       "lib": ["dom", "es5", "es2015.promise"],
       "allowSyntheticDefaultImports": true,
       "esModuleInterop": true,
-      //"typeRoots": ["./node_modules/@types"]
+      "typeRoots": ["./node_modules/@types"]
     },
-    "include": ["./index.ts", "./src/**/*.ts", "./types.d.ts"]
+    //"include": ["./index.ts", "./src/**/*.ts", "./types.d.ts"]
+    "include": ["./index.ts"]
   
 }
