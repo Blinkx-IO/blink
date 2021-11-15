@@ -10,6 +10,7 @@
   Seamlessly use Blink with the stack of your choice.
 </p>
 
+![blink-sdk-components](https://user-images.githubusercontent.com/4421818/141836560-655a5f40-a1d3-498e-adec-1a2b2ad7a446.png)
 <br />
 
 ## Table of contents
@@ -26,7 +27,7 @@
 
 ## Key Features
 
-![blink-sdk-components](https://user-images.githubusercontent.com/4421818/141836560-655a5f40-a1d3-498e-adec-1a2b2ad7a446.png)
+
 
 ## How does it work?
 
