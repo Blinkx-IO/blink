@@ -12,6 +12,18 @@
 
 <br />
 
+## Table of contents
+
+- [How does it work?](#how-does-it-work)
+- [Key Features](#key-features)
+  - [Blink Features](#)
+  - [Developer experience](#developer-experience)
+  - [Content](#-content)
+- [Stay up to date](#stay-up-to-date)
+- [Code of Conduct](#code-of-conduct)
+- [Want to contribute?](#want-to-contribute)
+- [License](#license)
+
 ## How does it work?
 
 - Integrate the [Blink API](https://blinkx.io/api-browser) or [SDK](https://www.npmjs.com/package/blinkx.io) to your site or app
@@ -20,6 +32,10 @@
 ## Join the community!
 
 Questions? Chat with us in our [official forum](https://discord.gg/6rTSFY95)!
+
+## Want to contribute?
+
+Found a bug, or want to contribute code? Pull requests and issues are most welcome.
 
 ## Troubleshooting and feedback
 
