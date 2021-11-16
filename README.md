@@ -1,7 +1,8 @@
 <br />
 <p >
-  <img alt="blinkx" src="https://cdn.blinkcms.com/blink/blinkxlogo.png" width="200"/>
+  <img alt="blinkx" src="https://user-images.githubusercontent.com/4421818/141873155-31d239ae-e31e-4043-b464-cccfb68ec266.png" width="200"/>
 </p>
+
 
 <h3>
   Design experiences faster, connect any framework.
