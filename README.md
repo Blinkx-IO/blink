@@ -1,7 +1,8 @@
 <br />
 <p >
-  <img alt="blinkx" src="https://cdn.blinkcms.com/blink/blinkxlogo.png" width="200"/>
+  <img alt="blinkx" src="https://user-images.githubusercontent.com/4421818/141873155-31d239ae-e31e-4043-b464-cccfb68ec266.png" width="200"/>
 </p>
+
 
 <h3>
   Design experiences faster, connect any framework.
@@ -80,8 +81,15 @@ async function getBlinkPages() {
 
 ## Get started
 
-- Integrate the [Blink API](https://blinkx.io/api-browser) or [SDK](https://www.npmjs.com/package/blinkx.io) to your site or app
 - Create a free account on [blinkx.io](https://blinkx.io/signup) and start visually designing your page or app.
+
+- Install the [SDK](https://www.npmjs.com/package/blinkx.io) with npm:
+
+    ```bash
+    npm i blinkx.io
+    ```
+
+- Or Integrate the [Blink REST API](https://blinkx.io/api-browser) to your site or app
 
 ## Key Features
 
@@ -92,7 +100,7 @@ async function getBlinkPages() {
 - Visual Experience Editor (VX Editor)
 - Responsive Layouts
 - [Headless Commerce](https://blinkx.io/coming-soon)
-- [Audience Manager](https://blinkx.io/coming-soon)
+- [Headless CRM](https://blinkx.io/coming-soon)
 - [App Marketplace](https://blinkx.io/coming-soon)
 
 
