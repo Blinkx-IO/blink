@@ -4,17 +4,14 @@ import { ContentItem, fetchMethod, contentItemRequest } from "./types/content.js
 export default class Blink {
     
     apiKey : string = '';
-    fetchMethod : fetchMethod = 'node-fetch';
     
     constructor() {
         //this.apiKey = apiKey;
         
     }
 
-    init(apiKey:string, config={fetchMethod:"node-fetch"}){
+    init(apiKey:string, config={}){
         this.apiKey = apiKey;
-
-        this.fetchMethod = config.fetchMethod as fetchMethod;
         
     }
 
@@ -37,11 +34,11 @@ export default class Blink {
 
         if(typeof(item) === "number"){
             request.item_id = item;
-            data  = await getContentItems(request,this.fetchMethod) as ContentItem;
+            data  = await getContentItems(request) as ContentItem;
             
         }else if(typeof(item) === "string"){
             request.page_url = item;
-            data  = await getContentItems(request,this.fetchMethod) as ContentItem;
+            data  = await getContentItems(request) as ContentItem;
             
         }else{
             throw new Error("Please provide either the item id or page url in as the item parameter");

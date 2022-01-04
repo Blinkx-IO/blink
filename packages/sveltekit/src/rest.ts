@@ -1,7 +1,6 @@
-import { ContentItem, seo_fields, fetchMethod, contentItemRequest} from "./types/content.js";
-import determineFetchMethod from "./controller/fetch.js";
+import { ContentItem, seo_fields, contentItemRequest} from "./types/content.js";
 
-async function getContentItems(contentItemReq : contentItemRequest, fetchMethod? : fetchMethod){
+async function getContentItems(contentItemReq : contentItemRequest){
     let response : Response;
     let blinkUrl = `https://blinkcms.com/api/v1/content-item?api_token=${contentItemReq.api_token}&dataFilter=${contentItemReq.dataFilter}`;
     
@@ -9,16 +8,7 @@ async function getContentItems(contentItemReq : contentItemRequest, fetchMethod?
     if(contentItemReq.page_url)blinkUrl=blinkUrl + `&page_url=${contentItemReq.page_url}`;
     if(contentItemReq.collectionId)blinkUrl=blinkUrl + `&collection_id=${contentItemReq.collectionId}`;
 
-    if (fetchMethod == "node-fetch"){
-        const ft = determineFetchMethod(fetchMethod);
-        if(ft){
-            response = await ft(blinkUrl) as any;
-        }else return;
-        
-    }
-    else{
-        response = await fetch(blinkUrl);
-    }
+    response = await fetch(blinkUrl);
 
     const data = await response.json() as ContentItem;
 
