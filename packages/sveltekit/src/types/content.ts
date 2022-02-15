@@ -30,8 +30,9 @@ interface contentItemRequest{
   item_id? : number;
   page_url? : string;
   collectionId?:number;
-  dataFilter: "html";
+  dataFilter: "html" | "json";
 }
+
 
 type fetchMethod = 'node-fetch' | 'window-fetch';
 
@@ -39,4 +40,18 @@ interface Collections {
   content_items: ContentItem[];
 }
 
-export {contentBody, seo_fields, ContentItem , Collections, fetchMethod, contentItemRequest};
+interface block {
+	tagName : string;
+	type:string;
+	style:string;
+	classes?: {name:string, active : boolean}[] | 'string'[];
+	attributes : Record<string,any>;
+	content:string;
+	void:boolean;
+	'custom-name':string;
+	components:block[];
+}
+
+type blinkComponents = block[];
+
+export type{contentBody, seo_fields, ContentItem , Collections, fetchMethod, contentItemRequest, block, blinkComponents};

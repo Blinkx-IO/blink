@@ -1,4 +1,4 @@
-import { ContentItem, seo_fields, contentItemRequest} from "./types/content.js";
+import type { ContentItem, seo_fields, contentItemRequest} from "./types/content.js";
 
 async function getContentItems(contentItemReq : contentItemRequest){
     let response : Response;

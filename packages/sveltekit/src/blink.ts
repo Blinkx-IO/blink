@@ -21,7 +21,7 @@ export default class Blink {
      * @param {string} dataFilter 
      * @returns {Promise<ContentItem>}
      */
-    async getContentItem(item? : number | string, dataFilter : "html" ='html', collectionId?:number): Promise<ContentItem>{
+    async getContentItem(item? : number | string, dataFilter : "html" | "json" ='html', collectionId?:number): Promise<ContentItem>{
         
         let data : ContentItem;
         

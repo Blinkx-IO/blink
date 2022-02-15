@@ -1,5 +1,9 @@
 {
     "compilerOptions": {
+      "types": ["node","svelte"],
+      "importsNotUsedAsValues": "error",
+		"isolatedModules": true,
+    "experimentalDecorators": true,
       "target": "ESNext",
       "removeComments": true,
       "outDir": "dist",
@@ -11,12 +15,13 @@
       "moduleResolution": "node",
       "resolveJsonModule": true,
       "declarationDir": "dist",
-      "lib": ["dom", "es5", "es2015.promise"],
+      "lib": ["ESNext"],
       "allowSyntheticDefaultImports": true,
       "esModuleInterop": true,
       "typeRoots": ["./node_modules/@types"]
     },
     //"include": ["./index.ts", "./src/**/*.ts", "./types.d.ts"]
-    "include": ["./index.ts"]
+    "include": ["src/**/*.d.ts","./index.ts", "src/**/*.svelte", "src"]
+    //"include": ["./index.ts"]
   
 }
