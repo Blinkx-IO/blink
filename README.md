@@ -112,7 +112,7 @@ async function getBlinkPages() {
 
 ## Join the community!
 
-Questions? Chat with us in our [official forum](https://discord.gg/6rTSFY95)!
+Questions? Chat with us in our [official forum](https://discord.gg/Pt8sZJJP)!
 
 ## Want to contribute?
 
