@@ -1,7 +1,7 @@
 <br />
 <p >
   <img alt="blinkx" src="https://user-images.githubusercontent.com/4421818/223917570-a5a9f8a6-faf2-46f8-9b13-366ac3be5f33.png" width="auto" height="50"/>
-  BLINK X
+  <h3>BLINK X</h3>
 </p>
 
 
