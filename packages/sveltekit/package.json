@@ -1,6 +1,6 @@
 {
   "name": "blinkx.io-sveltekit",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "./dist/index.js",
   "type": "module",
@@ -28,13 +28,11 @@
   },
   "homepage": "https://github.com/Blinkx-IO/blink#readme",
   "devDependencies": {
-    "@sveltejs/kit": "next",
     "@types/node": "^16.18.74",
     "dotenv": "^10.0.0",
     "esbuild": "^0.14.21",
-    "svelte": "^3.44.2",
-    "svelte-preprocess": "^4.9.8",
-    "typescript": "^4.5.5",
+    "svelte": "^4.2.9",
+    "typescript": "5.3.3",
     "undici": "^6.4.0"
   }
 }
