@@ -1,21 +1,19 @@
 {
     "compilerOptions": {
       "types": ["node","svelte"],
-      "importsNotUsedAsValues": "error",
 		"isolatedModules": true,
     "experimentalDecorators": true,
       "target": "ESNext",
       "removeComments": true,
       "outDir": "dist",
-      "module": "esnext",
+      "module": "NodeNext",
       "strict": true,
       "sourceMap": false,
       "skipLibCheck": true,
       "declaration": true,
-      "moduleResolution": "node",
       "resolveJsonModule": true,
       "declarationDir": "dist",
-      "lib": ["ESNext"],
+      "lib": ["ES2023"],
       "allowSyntheticDefaultImports": true,
       "esModuleInterop": true,
       "typeRoots": ["./node_modules/@types"]

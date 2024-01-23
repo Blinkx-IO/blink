@@ -1,3 +1,5 @@
+/// <reference lib="dom" />
+
 import type { ContentItem, seo_fields, contentItemRequest} from "./types/content.js";
 
 async function getContentItems(contentItemReq : contentItemRequest){
@@ -14,8 +16,21 @@ async function getContentItems(contentItemReq : contentItemRequest){
 
     //Parse this in system instead
     const seoFields = data.seo_fields as any;
-
-    data.seo_fields = JSON.parse(seoFields) as seo_fields;
+    if(seoFields){
+        try{
+            data.seo_fields = JSON.parse(seoFields) as seo_fields;
+        }catch(e){
+            //console.warn("Could not parse seo fields");
+            data.seo_fields = {
+                siteTitle:"",
+                siteDescription:"",
+                favicon:"",
+                metaImage:"",
+                keywords:""
+            } as seo_fields;
+        }
+    }
+    
 
     return data;
 

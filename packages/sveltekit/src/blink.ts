@@ -1,5 +1,5 @@
 import { getContentItems } from "./rest.js";
-import { ContentItem, fetchMethod, contentItemRequest } from "./types/content.js";
+import type { ContentItem, fetchMethod, contentItemRequest } from "./types/content.js";
 
 export default class Blink {
     
