@@ -22,7 +22,9 @@ export default class Blink {
      * @returns {Promise<ContentItem>}
      */
     async getContentItem(item? : number | string, dataFilter : "html" | "json" ='html', collectionId?:number): Promise<ContentItem>{
-        
+        if(this.apiKey = ''){
+            throw new Error("Please provide an api key");
+        }
         let data : ContentItem;
         
         let request : contentItemRequest = {

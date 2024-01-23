@@ -2,6 +2,8 @@
 
 import type { ContentItem, seo_fields, contentItemRequest} from "./types/content.js";
 
+
+//TODO throw error if api token is an empty string
 async function getContentItems(contentItemReq : contentItemRequest){
     let response : Response;
     let blinkUrl = `https://blinkcms.com/api/v1/content-item?api_token=${contentItemReq.api_token}&dataFilter=${contentItemReq.dataFilter}`;
