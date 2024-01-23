@@ -7,7 +7,7 @@ export default class Blink {
         this.apiKey = apiKey;
     }
     async getContentItem(item, dataFilter = 'html', collectionId) {
-        if (this.apiKey = '') {
+        if (this.apiKey === '') {
             throw new Error("Please provide an api key");
         }
         let data;
