@@ -1,5 +1,4 @@
 import { getContentItems } from "./rest.js";
-import "./types/content.js";
 export default class Blink {
     apiKey = '';
     constructor() {

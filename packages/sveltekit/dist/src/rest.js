@@ -10,7 +10,20 @@ async function getContentItems(contentItemReq) {
     response = await fetch(blinkUrl);
     const data = await response.json();
     const seoFields = data.seo_fields;
-    data.seo_fields = JSON.parse(seoFields);
+    if (seoFields) {
+        try {
+            data.seo_fields = JSON.parse(seoFields);
+        }
+        catch (e) {
+            data.seo_fields = {
+                siteTitle: "",
+                siteDescription: "",
+                favicon: "",
+                metaImage: "",
+                keywords: ""
+            };
+        }
+    }
     return data;
 }
 export { getContentItems };

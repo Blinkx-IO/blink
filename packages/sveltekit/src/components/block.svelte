@@ -1,6 +1,5 @@
 <script lang="ts">
 	import type { block } from '../types/content';
-    import Components from "$blink/component.svelte";
     import Svg from "./elements/svg.svelte";
     import Input from "./elements/input.svelte";
     import Image from "./elements/image.svelte";

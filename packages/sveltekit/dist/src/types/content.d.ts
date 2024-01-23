@@ -28,7 +28,7 @@ interface contentItemRequest {
     collectionId?: number;
     dataFilter: "html" | "json";
 }
-declare type fetchMethod = 'node-fetch' | 'window-fetch';
+type fetchMethod = 'node-fetch' | 'window-fetch';
 interface Collections {
     content_items: ContentItem[];
 }
@@ -46,5 +46,5 @@ interface block {
     'custom-name': string;
     components: block[];
 }
-declare type blinkComponents = block[];
+type blinkComponents = block[];
 export type { contentBody, seo_fields, ContentItem, Collections, fetchMethod, contentItemRequest, block, blinkComponents };

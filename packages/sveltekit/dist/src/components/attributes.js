@@ -1,6 +1,6 @@
 export function parseAttributes(attributes, type = 'string', classes) {
     const att = [];
-    const attObj = [];
+    const attObj = {};
     for (const keys in attributes) {
         if (type == 'string') {
             att.push(`${keys}='${attributes[keys]}'`);
@@ -11,17 +11,13 @@ export function parseAttributes(attributes, type = 'string', classes) {
     }
     if (classes) {
         classes.forEach((cls) => {
-            if (cls.length) {
+            if (typeof cls === 'string' || ('name' in cls)) {
                 if (type == 'string')
                     att.push(`class='${cls}'`);
-                else
-                    attObj['class'] = cls;
+                else if (typeof cls === 'object' && 'name' in cls)
+                    attObj['class'] = cls.name;
             }
             else {
-                if (type == 'string')
-                    att.push(`class='${cls.name}'`);
-                else
-                    attObj['class'] = cls.name;
             }
         });
     }
