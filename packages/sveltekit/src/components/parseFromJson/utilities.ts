@@ -5,7 +5,7 @@ import type {block} from "./type.js";
 
 export function parseAttributes(attributes: Record<string, unknown>, type: 'string' | 'obj' = 'string', /*classes?: block['classes']*/) {
     const att = [];
-    const attObj = [];
+    const attObj: Record<string, unknown> = {};
     for (const keys in attributes) {
         if (type == 'string') {
             att.push(`${keys}='${attributes[keys]}'`);

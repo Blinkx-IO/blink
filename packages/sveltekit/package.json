@@ -9,7 +9,7 @@
   ],
   "scripts": {
     "debug": "tsc ./test-server.ts --target esnext --moduleResolution node && node ./test-server.js",
-    "build": "esbuild index.ts --bundle --outfile=out.js"
+    "build": "tsc && node build.js"
   },
   "repository": {
     "type": "git",
@@ -30,7 +30,8 @@
   "devDependencies": {
     "@types/node": "^16.18.74",
     "dotenv": "^10.0.0",
-    "esbuild": "^0.14.21",
+    "esbuild": "^0.14.54",
+    "esbuild-svelte": "^0.8.0",
     "svelte": "^4.2.9",
     "typescript": "5.3.3",
     "undici": "^6.4.0"

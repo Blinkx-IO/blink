@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-      "types": ["node","svelte"],
+    "types": ["node"],
 		"isolatedModules": true,
     "experimentalDecorators": true,
       "target": "ESNext",
