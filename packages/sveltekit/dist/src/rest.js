@@ -1,6 +1,6 @@
 async function getContentItems(contentItemReq) {
     let response;
-    let blinkUrl = `https://blinkcms.com/api/v1/content-item?api_token=${contentItemReq.api_token}&dataFilter=${contentItemReq.dataFilter}`;
+    let blinkUrl = `https://legacy.blinkx.io/api/v1/content-item?api_token=${contentItemReq.api_token}&dataFilter=${contentItemReq.dataFilter}`;
     if (contentItemReq.item_id)
         blinkUrl = blinkUrl + `&item_id=${contentItemReq.item_id}`;
     if (contentItemReq.page_url)
